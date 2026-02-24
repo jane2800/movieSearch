@@ -1,0 +1,15 @@
+.App {
+  background-color: azure;
+}
+
+.filterButton{
+  background-color: blueviolet;
+  min-width: 100px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.filterButton:hover{
+  background-color: aqua;
+}
+
